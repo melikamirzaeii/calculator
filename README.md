@@ -9,5 +9,5 @@ Addition(+)
 Substraction(-)
 multiplication(*)
 division (/)
-## picture of the code
-![Uploading Screenshot 2024-05-13 233659.png…]()
+## picture of the Calculator
+![Screenshot 2024-05-13 233659](https://github.com/melikamirzaeii/calculator/assets/153517418/dcf93edd-9078-434d-b8c3-0070b85d70da)
